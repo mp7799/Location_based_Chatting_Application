@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "87777867571",
+    "firebase_url": "https://dynamite-7c85d.firebaseio.com",
+    "project_id": "dynamite-7c85d",
+    "storage_bucket": "dynamite-7c85d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87777867571:android:bf53e0c32df58ddee0b046",
+        "android_client_info": {
+          "package_name": "com.crum.module_group_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87777867571-rdsn8sqs0hkr7qmu0i8i1a6ea0subm11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8_49V_fIPjs6HyDl3F5poiathXN56P34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87777867571-rdsn8sqs0hkr7qmu0i8i1a6ea0subm11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
